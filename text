@@ -1,0 +1,5 @@
+installation 
+1. npm create vite@latest
+2. npm i
+3. npm install -D tailwindcss postcss autoprefixer
+4. npx tailwindcss init -p
