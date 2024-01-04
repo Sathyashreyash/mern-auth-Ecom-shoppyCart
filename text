@@ -13,3 +13,10 @@ git adding
 
 
 after got to source code push the code later what you code
+
+backend installations
+
+1. npm init -y
+2. npm i nodemon
+3. npm i express mongoose dotenv
+
