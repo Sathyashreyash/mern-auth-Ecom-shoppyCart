@@ -3,3 +3,13 @@ installation
 2. npm i
 3. npm install -D tailwindcss postcss autoprefixer
 4. npx tailwindcss init -p
+5. npm i react-router-dom
+
+
+git adding
+1. git init
+2. git add .
+3. git commit -m 'Massage inti it'
+
+
+after got to source code push the code later what you code
